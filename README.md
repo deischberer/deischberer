@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deischberer
-- 👀 I’m interested in data analysis
+- 👀 I’m interested in data analysis, 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
